@@ -2,12 +2,12 @@ namespace NoCashLimit;
 
 public static class ModHelperData
 {
-    public const string WorksOnVersion = "55.0";
-    public const string Version = "1.0.0";
-    public const string Name = "NoCashLimit";
+    public const string WorksOnVersion = "55.2";
+    public const string Version = "1.0.1";
+    public const string Name = "No Cash Limit";
 
-    public const string Description = "An empty mod";
+    public const string Description = "Removes the cap for money in-game";
 
-    public const string RepoOwner = ""; // TODO add your github username hero, also in the download url in README.md
-    public const string RepoName = ""; // TODO add your repo name here, also in the download url in README.md
+    public const string RepoOwner = "forso4237";
+    public const string RepoName = "NoCashLimit";
 }
